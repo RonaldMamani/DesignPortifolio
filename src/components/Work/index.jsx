@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Image1 from "../../assets/image-slide-1.jpg"
 import Image2 from "../../assets/image-slide-2.jpg"
 import Image3 from "../../assets/image-slide-3.jpg"
@@ -10,7 +12,7 @@ import SecundaryTitle from "../Texts/SecundaryTitle";
 export default function Work() {
     return (
         <section className="
-            sm:p-4 flex flex-col gap-4 text-center
+            m-4 flex flex-col gap-4 text-center
             md:p-8
             xl:px-32
             ">

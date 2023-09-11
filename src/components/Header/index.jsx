@@ -4,9 +4,9 @@ import ButtonBlack from "../Buttons/ButtonBlack"
 export default function Header() {
     return (
         <header className="
-            sm:p-3 flex justify-between
+            m-4 flex justify-between
             md:p-8
-            xl:px-32
+            lg:px-32
             ">
             <div>
                 <img src={logo} alt="Logotipo" />

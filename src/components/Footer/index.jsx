@@ -4,7 +4,7 @@ import ButtonBlack from "../Buttons/ButtonBlack"
 export default function Footer() {
     return (
         <footer className="
-            sm:p-4 flex justify-between
+            m-4 flex justify-between
             md:p-8
             xl:px-32
             ">

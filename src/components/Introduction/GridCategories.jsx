@@ -10,7 +10,7 @@ import Ilustration6 from "../../assets/pattern-motion-graphics.svg"
 export default function GridCategories() {
     return (
         <div className=" 
-            sm:py-4 grid grid-rows-6 grid-cols-2 sm:gap-3
+            py-4 grid grid-rows-6 grid-cols-2 gap-3
             md:py-10 md:grid-rows-3 md:grid-cols-4
             xl:grid-rows-2 xl:grid-cols-6 xl:py-16 xl:gap-5
             ">
