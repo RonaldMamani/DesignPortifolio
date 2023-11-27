@@ -1,8 +1,36 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Design Portifolio
 
-Currently, two official plugins are available:
+Projeto de Pagina de Design Portifolio é baseada em uma pagina Landing Page, usando React com JavaScript com TaiwlndCSS e Bootstrap
+## Imagens
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![DESIGN Portifolio](https://res.cloudinary.com/dz209s6jk/image/upload/v1657881557/Challenges/cuufnbwequw7eme8843i.jpg)
+
+
+## Deploy
+
+O Projeto está em hospedagem na Vercel o link esta abaixo:
+
+Link: https://design-portifolio-tan.vercel.app/
+## Instalação
+
+Instalação das dependencias do projeto
+
+```bash
+  npm install
+```
+
+Rodar o Codigo do Projeto
+
+```
+    npm start
+```
+    
+## Aprendizados
+
+O Projeto do Design Portifolio foi um dos primeiros Projeto com React utilizando frameworks de estilização, foi um grande Aprendizado com componentes e bastante util para o Aprendizado com frameworks de estilização e bastante Aprendizado com React.
+
+## Autores
+
+- [RonaldMamani](https://github.com/RonaldMamani)
+
